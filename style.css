@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(12, 1, 61);
+    color: antiquewhite;
+    border-radius: 20px;
+}
+h2{
+    background-color: rgb(12, 1, 61);
+    color: antiquewhite;
+    border-radius: 20px;
+}
+body{
+    background-color: aquamarine;
+}
+a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 1, 61);
+    border-radius: 5px;
+
+}
